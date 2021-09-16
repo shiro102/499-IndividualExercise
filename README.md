@@ -9,6 +9,6 @@ Then it will ask the user to choose 1 of 3 actions which are:
   - Give total occurreneces of keywords in the input
   - Exit the program
 ### Testing
-In each module of feature, there is a unittest that is used to test if the feature is working or not. Simply run 'python feature-file.py' to check the feature.
+In each module of feature, there is a unittest that is used to test if the feature is working or not. Simply run 'python feature-file.py' or 'python feature-file.py -v' to check the feature.
 For example:
-![alt text](https://media.discordapp.net/attachments/832035518903484458/888192569945780224/unknown.png)
+![alt text](https://media.discordapp.net/attachments/832035518903484458/888192973471367208/unknown.png)
