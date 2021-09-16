@@ -21,7 +21,7 @@ def main():
                 print(s)
 
         elif x == '3':
-            print('Thanks for using the software.')
+            print('Thanks for using the software. Have a good day')
             end_point = False
         else:
             print('Cannot understand the answer, please try again\n')
